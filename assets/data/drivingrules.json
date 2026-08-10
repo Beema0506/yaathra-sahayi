@@ -1,0 +1,170 @@
+[
+  {
+    "id": 16,
+    "category": "Driving Rules",
+    "titleEn": "Obey Traffic Signals and Road Signs",
+    "titleMl": "ട്രാഫിക് സിഗ്നലുകളും റോഡ് ചിഹ്നങ്ങളും പാലിക്കുക",
+    "lawReference": "Section 119, Motor Vehicles Act, 1988",
+    "descriptionEn": "Every driver shall obey traffic signs, traffic signals and directions issued by traffic police or any authorized officer. Ignoring traffic control devices may lead to accidents and legal action.",
+    "descriptionMl": "എല്ലാ ഡ്രൈവർമാരും ട്രാഫിക് സിഗ്നലുകളും റോഡ് ചിഹ്നങ്ങളും ട്രാഫിക് പോലീസിന്റെയോ അധികാരപ്പെട്ട ഉദ്യോഗസ്ഥരുടെയോ നിർദ്ദേശങ്ങളും പാലിക്കണം. ഇവ ലംഘിക്കുന്നത് അപകടത്തിനും നിയമനടപടികൾക്കും കാരണമാകും.",
+    "penaltyEn": "Violation may attract penalties under the Motor Vehicles Act and applicable traffic rules.",
+    "penaltyMl": "ലംഘിച്ചാൽ മോട്ടോർ വാഹന നിയമവും ബാധകമായ ട്രാഫിക് ചട്ടങ്ങളും അനുസരിച്ചുള്ള പിഴയും മറ്റ് നടപടികളും ബാധകമാണ്."
+  },
+  {
+    "id": 17,
+    "category": "Driving Rules",
+    "titleEn": "Drive on the Left Side of the Road",
+    "titleMl": "റോഡിന്റെ ഇടത് വശത്ത് വാഹനം ഓടിക്കുക",
+    "lawReference": "Rules of the Road Regulations, 1989",
+    "descriptionEn": "Motor vehicles shall normally be driven on the left side of the road, allowing traffic moving in the opposite direction to pass safely on the right.",
+    "descriptionMl": "വാഹനങ്ങൾ സാധാരണയായി റോഡിന്റെ ഇടത് വശത്തുകൂടി ഓടിക്കണം. ഇതുവഴി എതിർദിശയിൽ വരുന്ന വാഹനങ്ങൾക്ക് സുരക്ഷിതമായി സഞ്ചരിക്കാൻ കഴിയും.",
+    "penaltyEn": "Driving on the wrong side may result in penalties under applicable provisions of the Motor Vehicles Act.",
+    "penaltyMl": "റോഡിന്റെ തെറ്റായ വശത്ത് വാഹനം ഓടിക്കുന്നത് മോട്ടോർ വാഹന നിയമപ്രകാരം ശിക്ഷാർഹമാണ്."
+  },
+  {
+    "id": 18,
+    "category": "Driving Rules",
+    "titleEn": "Maintain a Safe Following Distance",
+    "titleMl": "മുന്നിലുള്ള വാഹനത്തിൽ നിന്ന് സുരക്ഷിത അകലം പാലിക്കുക",
+    "lawReference": "Rules of the Road Regulations, 1989",
+    "descriptionEn": "Drivers should maintain a sufficient distance from the vehicle ahead to allow enough time to stop safely in case of sudden braking or emergencies.",
+    "descriptionMl": "മുന്നിലുള്ള വാഹനം പെട്ടെന്ന് ബ്രേക്ക് ചെയ്താൽ സുരക്ഷിതമായി നിർത്താൻ കഴിയുന്നത്ര അകലം ഓരോ ഡ്രൈവറും പാലിക്കണം.",
+    "penaltyEn": "Failure to maintain safe distance leading to dangerous driving may attract legal action under applicable provisions.",
+    "penaltyMl": "സുരക്ഷിത അകലം പാലിക്കാത്തതിലൂടെ അപകടകരമായ ഡ്രൈവിംഗ് ഉണ്ടായാൽ ബാധകമായ നിയമപ്രകാരം നടപടി സ്വീകരിക്കാം."
+  },
+  {
+    "id": 19,
+    "category": "Driving Rules",
+    "titleEn": "Use Indicators Before Turning or Changing Lanes",
+    "titleMl": "തിരിയുന്നതിനും ലെയിൻ മാറ്റുന്നതിനും മുമ്പ് ഇൻഡിക്കേറ്റർ ഉപയോഗിക്കുക",
+    "lawReference": "Rules of the Road Regulations, 1989",
+    "descriptionEn": "Drivers shall give proper signals before turning, changing lanes or stopping. Timely indication helps prevent collisions and improves traffic flow.",
+    "descriptionMl": "തിരിയുന്നതിനും ലെയിൻ മാറ്റുന്നതിനും വാഹനം നിർത്തുന്നതിനും മുമ്പ് വ്യക്തമായ സിഗ്നൽ നൽകണം. ഇത് അപകടങ്ങൾ ഒഴിവാക്കാനും ഗതാഗതം സുഗമമാക്കാനും സഹായിക്കുന്നു.",
+    "penaltyEn": "Ignoring signalling requirements may result in penalties if it leads to a traffic violation or dangerous driving.",
+    "penaltyMl": "സിഗ്നൽ നൽകാതെ വാഹനം ഓടിച്ച് നിയമലംഘനമോ അപകടകരമായ സാഹചര്യമോ സൃഷ്ടിച്ചാൽ പിഴയും മറ്റ് നടപടികളും ഉണ്ടായേക്കാം."
+  },
+  {
+    "id": 20,
+    "category": "Driving Rules",
+    "titleEn": "Give Way to Emergency Vehicles",
+    "titleMl": "അടിയന്തര സേവന വാഹനങ്ങൾക്ക് വഴി നൽകുക",
+    "lawReference": "Section 194E, Motor Vehicles Act, 1988",
+    "descriptionEn": "Drivers shall give free passage to emergency vehicles such as ambulances, fire service vehicles and police vehicles responding to emergencies.",
+    "descriptionMl": "അടിയന്തര ആവശ്യങ്ങൾക്കായി സഞ്ചരിക്കുന്ന ആംബുലൻസ്, അഗ്നിരക്ഷാ സേന, പോലീസ് വാഹനങ്ങൾ തുടങ്ങിയവയ്ക്ക് മറ്റ് വാഹനങ്ങൾ വഴി നൽകണം.",
+    "penaltyEn": "Failure to give way to emergency vehicles may attract a fine of ₹10,000 under the Motor Vehicles Act.",
+    "penaltyMl": "അടിയന്തര സേവന വാഹനങ്ങൾക്ക് വഴി നൽകാത്തവർക്ക് മോട്ടോർ വാഹന നിയമപ്രകാരം ₹10,000 വരെ പിഴ ലഭിക്കാം."
+  },
+
+    {
+      "id": 21,
+      "category": "Driving Rules",
+      "titleEn": "Overtake Only from the Right Side",
+      "titleMl": "വലത് വശത്തുകൂടി മാത്രം മറികടക്കുക",
+      "lawReference": "Rules of the Road Regulations, 1989",
+      "descriptionEn": "Drivers should overtake another vehicle only from the right side after ensuring that the road ahead is clear and it is safe to do so. Overtaking from the left should be avoided except where specifically permitted.",
+      "descriptionMl": "മുന്നിലുള്ള വാഹനം മറികടക്കുമ്പോൾ റോഡ് സുരക്ഷിതമാണെന്ന് ഉറപ്പാക്കി വലത് വശത്തുകൂടി മാത്രം മറികടക്കണം. പ്രത്യേകമായി അനുവദിച്ചിട്ടില്ലെങ്കിൽ ഇടത് വശത്തുകൂടി മറികടക്കരുത്.",
+      "penaltyEn": "Unsafe overtaking may attract penalties under the Motor Vehicles Act if it results in dangerous driving or traffic violations.",
+      "penaltyMl": "അപകടകരമായ രീതിയിൽ മറികടക്കുന്നത് മോട്ടോർ വാഹന നിയമപ്രകാരം പിഴയ്ക്കും മറ്റ് നിയമനടപടികൾക്കും കാരണമായേക്കാം."
+    },
+    {
+      "id": 22,
+      "category": "Driving Rules",
+      "titleEn": "Follow Proper Lane Discipline",
+      "titleMl": "ശരിയായ ലെയിൻ ശാസനം പാലിക്കുക",
+      "lawReference": "Rules of the Road Regulations, 1989",
+      "descriptionEn": "Always drive within the designated lane and change lanes only after giving proper signals and ensuring it is safe. Frequent or sudden lane changes can cause accidents.",
+      "descriptionMl": "നിശ്ചയിച്ചിരിക്കുന്ന ലെയിനിൽ വാഹനം ഓടിക്കുകയും ലെയിൻ മാറുമ്പോൾ ഇൻഡിക്കേറ്റർ നൽകി സുരക്ഷ ഉറപ്പാക്കുകയും വേണം. അനാവശ്യമായ ലെയിൻ മാറ്റങ്ങൾ അപകടങ്ങൾക്ക് കാരണമാകും.",
+      "penaltyEn": "Improper lane changes leading to dangerous driving may attract penalties under applicable provisions.",
+      "penaltyMl": "അപകടകരമായ ലെയിൻ മാറ്റം നടത്തിയാൽ ബാധകമായ നിയമപ്രകാരം പിഴ ലഭിക്കാം."
+    },
+    {
+      "id": 23,
+      "category": "Driving Rules",
+      "titleEn": "Use Headlights During Low Visibility",
+      "titleMl": "കാഴ്ച കുറവുള്ള സാഹചര്യങ്ങളിൽ ഹെഡ്‌ലൈറ്റ് ഉപയോഗിക്കുക",
+      "lawReference": "Rules of the Road Regulations, 1989",
+      "descriptionEn": "Headlights should be switched on during rain, fog, heavy clouds, tunnels and at night to improve visibility for both the driver and other road users.",
+      "descriptionMl": "മഴ, മൂടൽമഞ്ഞ്, തുരങ്കം, രാത്രികാലം തുടങ്ങിയ കാഴ്ച കുറവുള്ള സാഹചര്യങ്ങളിൽ ഹെഡ്‌ലൈറ്റുകൾ നിർബന്ധമായും ഉപയോഗിക്കണം.",
+      "penaltyEn": "Failure to use lights when required may attract penalties if it creates a hazardous driving situation.",
+      "penaltyMl": "ആവശ്യമായ സാഹചര്യങ്ങളിൽ ലൈറ്റുകൾ ഉപയോഗിക്കാത്തത് അപകടകരമായ ഡ്രൈവിംഗായി കണക്കാക്കി നടപടി സ്വീകരിക്കാം."
+    },
+    {
+      "id": 24,
+      "category": "Driving Rules",
+      "titleEn": "Dim High Beam for Oncoming Vehicles",
+      "titleMl": "എതിർദിശയിൽ വാഹനം വരുമ്പോൾ ഹൈബീം ഡിം ചെയ്യുക",
+      "lawReference": "Rules of the Road Regulations, 1989",
+      "descriptionEn": "Drivers should switch from high beam to low beam when another vehicle approaches from the opposite direction to prevent glare and ensure safe visibility.",
+      "descriptionMl": "എതിർദിശയിൽ വാഹനം വരുമ്പോൾ മറ്റ് ഡ്രൈവർമാരുടെ കാഴ്ച തടസപ്പെടാതിരിക്കാൻ ഹൈബീമിൽ നിന്ന് ലോബീമിലേക്ക് മാറ്റണം.",
+      "penaltyEn": "Improper use of high beam causing danger or inconvenience may invite action under applicable traffic rules.",
+      "penaltyMl": "അപകടമോ അസൗകര്യമോ സൃഷ്ടിക്കുന്ന വിധത്തിൽ ഹൈബീം ഉപയോഗിച്ചാൽ ബാധകമായ നിയമപ്രകാരം നടപടി സ്വീകരിക്കാം."
+    },
+    {
+      "id": 25,
+      "category": "Driving Rules",
+      "titleEn": "Yield to Pedestrians at Zebra Crossings",
+      "titleMl": "സീബ്രാ ക്രോസിംഗിൽ കാൽനടയാത്രക്കാർക്ക് മുൻഗണന നൽകുക",
+      "lawReference": "Rules of the Road Regulations, 1989",
+      "descriptionEn": "Drivers must slow down and give way to pedestrians crossing at designated zebra crossings. Pedestrian safety is a fundamental responsibility of every driver.",
+      "descriptionMl": "സീബ്രാ ക്രോസിംഗിലൂടെ റോഡ് മുറിച്ചുകടക്കുന്ന കാൽനടയാത്രക്കാർക്ക് വാഹനം നിർത്തിയോ വേഗം കുറച്ചോ വഴി നൽകണം. കാൽനടയാത്രക്കാരുടെ സുരക്ഷ ഉറപ്പാക്കുന്നത് ഓരോ ഡ്രൈവറുടെയും ഉത്തരവാദിത്വമാണ്.",
+      "penaltyEn": "Failure to yield to pedestrians may result in penalties under applicable traffic laws if it endangers public safety.",
+      "penaltyMl": "കാൽനടയാത്രക്കാർക്ക് വഴി നൽകാതിരിക്കുന്നത് പൊതുസുരക്ഷയെ അപകടത്തിലാക്കുന്ന സാഹചര്യത്തിൽ നിയമനടപടികൾക്ക് കാരണമാകാം."
+    },
+
+
+    {
+      "id": 26,
+      "category": "Driving Rules",
+      "titleEn": "Stop Before Railway Crossings",
+      "titleMl": "റെയിൽവേ ക്രോസിംഗിൽ വാഹനം നിർത്തി സുരക്ഷ ഉറപ്പാക്കുക",
+      "lawReference": "Rules of the Road Regulations, 1989",
+      "descriptionEn": "Drivers should slow down and stop at unmanned railway crossings to ensure no train is approaching before crossing the tracks.",
+      "descriptionMl": "മാനവരഹിത റെയിൽവേ ക്രോസിംഗുകളിൽ വാഹനം നിർത്തി ട്രെയിൻ വരുന്നില്ലെന്ന് ഉറപ്പാക്കിയ ശേഷമേ പാളം മുറിച്ചുകടക്കാവൂ.",
+      "penaltyEn": "Failure to follow railway crossing safety rules may attract penalties under the Motor Vehicles Act and applicable traffic regulations.",
+      "penaltyMl": "റെയിൽവേ ക്രോസിംഗ് സുരക്ഷാ ചട്ടങ്ങൾ ലംഘിക്കുന്നത് മോട്ടോർ വാഹന നിയമപ്രകാരം പിഴയ്ക്കും മറ്റ് നിയമനടപടികൾക്കും കാരണമാകാം."
+    },
+    {
+      "id": 27,
+      "category": "Driving Rules",
+      "titleEn": "Do Not Reverse Without Ensuring Safety",
+      "titleMl": "സുരക്ഷ ഉറപ്പാക്കാതെ വാഹനം റിവേഴ്സ് ചെയ്യരുത്",
+      "lawReference": "Rules of the Road Regulations, 1989",
+      "descriptionEn": "Before reversing a vehicle, ensure the road behind is clear. Reverse slowly and cautiously to avoid collisions with pedestrians, vehicles, or obstacles.",
+      "descriptionMl": "വാഹനം റിവേഴ്സ് ചെയ്യുന്നതിന് മുമ്പ് പിന്നിലെ വഴി സുരക്ഷിതമാണെന്ന് ഉറപ്പാക്കണം. കാൽനടയാത്രക്കാരെയോ മറ്റ് വാഹനങ്ങളെയോ തടസ്സങ്ങളെയോ ഇടിക്കാതിരിക്കാൻ ശ്രദ്ധയോടെ റിവേഴ്സ് ചെയ്യണം.",
+      "penaltyEn": "Negligent reversing resulting in danger or accidents may attract penalties under applicable provisions.",
+      "penaltyMl": "അശ്രദ്ധയോടെ റിവേഴ്സ് ചെയ്ത് അപകടം സൃഷ്ടിച്ചാൽ ബാധകമായ നിയമപ്രകാരം പിഴയും മറ്റ് നടപടികളും ഉണ്ടായേക്കാം."
+    },
+    {
+      "id": 28,
+      "category": "Driving Rules",
+      "titleEn": "Avoid Unnecessary Use of Horn",
+      "titleMl": "അനാവശ്യമായി ഹോൺ ഉപയോഗിക്കരുത്",
+      "lawReference": "Rules of the Road Regulations, 1989",
+      "descriptionEn": "Drivers should use the horn only when necessary to warn other road users. Unnecessary honking, especially in silence zones, is prohibited.",
+      "descriptionMl": "മറ്റ് റോഡ് ഉപയോക്താക്കളെ മുന്നറിയിപ്പ് നൽകേണ്ട സാഹചര്യങ്ങളിൽ മാത്രമേ ഹോൺ ഉപയോഗിക്കാവൂ. സൈലൻസ് സോണുകളിൽ ഉൾപ്പെടെ അനാവശ്യ ഹോൺ ഉപയോഗിക്കുന്നത് നിരോധിച്ചിരിക്കുന്നു.",
+      "penaltyEn": "Violation may attract penalties under applicable traffic rules and local regulations.",
+      "penaltyMl": "ലംഘിച്ചാൽ ബാധകമായ ട്രാഫിക് ചട്ടങ്ങളും പ്രാദേശിക നിയമങ്ങളും അനുസരിച്ചുള്ള പിഴ ലഭിക്കാം."
+    },
+    {
+      "id": 29,
+      "category": "Driving Rules",
+      "titleEn": "Do Not Drive Against One-Way Traffic",
+      "titleMl": "വൺവേ റോഡിൽ എതിർദിശയിൽ വാഹനം ഓടിക്കരുത്",
+      "lawReference": "Section 184, Motor Vehicles Act, 1988 (where applicable) and relevant Traffic Control Rules",
+      "descriptionEn": "Driving against the permitted direction on a one-way road is dangerous and may lead to serious accidents. Drivers must always follow one-way traffic signs.",
+      "descriptionMl": "വൺവേ റോഡിൽ അനുവദിച്ച ദിശയ്ക്ക് എതിരായി വാഹനം ഓടിക്കുന്നത് ഗുരുതരമായ അപകടങ്ങൾക്ക് കാരണമാകാം. വൺവേ ട്രാഫിക് ചിഹ്നങ്ങൾ എല്ലായ്പ്പോഴും പാലിക്കണം.",
+      "penaltyEn": "Violation may attract penalties under applicable traffic laws. Dangerous cases may be dealt with under Section 184 of the Motor Vehicles Act.",
+      "penaltyMl": "ലംഘിച്ചാൽ ബാധകമായ ട്രാഫിക് നിയമപ്രകാരം പിഴ ലഭിക്കാം. അപകടകരമായ സാഹചര്യങ്ങളിൽ വകുപ്പ് 184 പ്രകാരവും നടപടി സ്വീകരിക്കാം."
+    },
+    {
+      "id": 30,
+      "category": "Driving Rules",
+      "titleEn": "Do Not Stop or Park in a Way That Obstructs Traffic",
+      "titleMl": "ഗതാഗത തടസ്സം സൃഷ്ടിക്കുന്ന രീതിയിൽ വാഹനം നിർത്തുകയോ പാർക്ക് ചെയ്യുകയോ ചെയ്യരുത്",
+      "lawReference": "Rules of the Road Regulations, 1989",
+      "descriptionEn": "Vehicles should not be stopped or parked at locations where they obstruct traffic flow, block intersections, pedestrian crossings, or emergency access routes.",
+      "descriptionMl": "ഗതാഗതം തടസ്സപ്പെടുന്ന സ്ഥലങ്ങളിലോ ജംഗ്ഷനുകളിലോ സീബ്രാ ക്രോസിംഗുകളിലോ അടിയന്തര വാഹനങ്ങളുടെ വഴിയിലോ വാഹനം നിർത്തുകയോ പാർക്ക് ചെയ്യുകയോ ചെയ്യരുത്.",
+      "penaltyEn": "Improper stopping or parking may attract penalties under applicable traffic rules and local authority regulations.",
+      "penaltyMl": "തെറ്റായ രീതിയിൽ വാഹനം നിർത്തുകയോ പാർക്ക് ചെയ്യുകയോ ചെയ്താൽ ബാധകമായ ട്രാഫിക് ചട്ടങ്ങളും പ്രാദേശിക നിയമങ്ങളും അനുസരിച്ചുള്ള പിഴ ലഭിക്കാം."
+    }
+]

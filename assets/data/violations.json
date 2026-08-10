@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "category": "Violations",
+    "titleEn": "Driving Without a Valid Driving Licence",
+    "titleMl": "സാധുവായ ഡ്രൈവിംഗ് ലൈസൻസ് ഇല്ലാതെ വാഹനം ഓടിക്കൽ",
+    "lawReference": "Section 3 read with Section 181, Motor Vehicles Act, 1988",
+    "descriptionEn": "A person shall not drive a motor vehicle in any public place unless they hold a valid driving licence for that class of vehicle. Driving without a valid licence is a punishable offence.",
+    "descriptionMl": "അതത് വിഭാഗത്തിൽപ്പെട്ട വാഹനത്തിന് സാധുവായ ഡ്രൈവിംഗ് ലൈസൻസ് ഇല്ലാതെ പൊതുസ്ഥലത്ത് മോട്ടോർ വാഹനം ഓടിക്കുന്നത് നിയമലംഘനമാണ്.",
+    "penaltyEn": "Fine: ₹5,000. Additional legal action may apply depending on the circumstances and future amendments.",
+    "penaltyMl": "പിഴ: ₹5,000. സാഹചര്യത്തിനും ഭാവിയിലെ നിയമഭേദഗതികൾക്കും അനുസരിച്ച് മറ്റ് നിയമനടപടികളും ബാധകമായേക്കാം."
+  },
+  {
+    "id": 2,
+    "category": "Violations",
+    "titleEn": "Allowing an Unlicensed Person to Drive",
+    "titleMl": "ലൈസൻസ് ഇല്ലാത്ത വ്യക്തിയെ വാഹനം ഓടിക്കാൻ അനുവദിക്കൽ",
+    "lawReference": "Section 5 read with Section 180, Motor Vehicles Act, 1988",
+    "descriptionEn": "The owner or person in charge of a motor vehicle shall not permit a person without a valid driving licence to drive the vehicle.",
+    "descriptionMl": "സാധുവായ ഡ്രൈവിംഗ് ലൈസൻസ് ഇല്ലാത്ത ഒരാളെ വാഹന ഉടമയോ ചുമതലയുള്ള വ്യക്തിയോ വാഹനം ഓടിക്കാൻ അനുവദിക്കരുത്.",
+    "penaltyEn": "Fine: ₹5,000. The vehicle owner or person in charge may also be held legally responsible.",
+    "penaltyMl": "പിഴ: ₹5,000. വാഹന ഉടമയ്ക്കോ ചുമതലയുള്ള വ്യക്തിക്കോ നിയമപരമായ ഉത്തരവാദിത്വം ബാധകമായേക്കാം."
+  },
+  {
+    "id": 3,
+    "category": "Violations",
+    "titleEn": "Driving with an Expired Driving Licence",
+    "titleMl": "കാലാവധി കഴിഞ്ഞ ഡ്രൈവിംഗ് ലൈസൻസുമായി വാഹനം ഓടിക്കൽ",
+    "lawReference": "Section 15 read with Section 181, Motor Vehicles Act, 1988",
+    "descriptionEn": "Driving a motor vehicle with an expired driving licence without renewing it within the prescribed period may be treated as driving without a valid licence.",
+    "descriptionMl": "നിശ്ചിത സമയത്തിനുള്ളിൽ പുതുക്കാത്ത കാലാവധി കഴിഞ്ഞ ഡ്രൈവിംഗ് ലൈസൻസുമായി വാഹനം ഓടിക്കുന്നത് സാധുവായ ലൈസൻസ് ഇല്ലാതെ വാഹനം ഓടിക്കുന്നതിനോട് സമാനമായി പരിഗണിക്കപ്പെടാം.",
+    "penaltyEn": "Fine: Up to ₹5,000, depending on the validity status and applicable provisions.",
+    "penaltyMl": "പിഴ: പരമാവധി ₹5,000 വരെ. ലൈസൻസിന്റെ സാധുതയും ബാധകമായ നിയമവ്യവസ്ഥകളും അനുസരിച്ച് വ്യത്യാസപ്പെടാം."
+  },
+  {
+    "id": 4,
+    "category": "Violations",
+    "titleEn": "Driving While Disqualified",
+    "titleMl": "ഡ്രൈവിംഗിൽ നിന്ന് അയോഗ്യനാക്കിയിരിക്കുമ്പോൾ വാഹനം ഓടിക്കൽ",
+    "lawReference": "Section 23 read with applicable penalty provisions under the Motor Vehicles Act, 1988",
+    "descriptionEn": "A person who has been disqualified by a competent authority or court from holding or obtaining a driving licence shall not drive any motor vehicle during the period of disqualification.",
+    "descriptionMl": "കോടതിയോ ബന്ധപ്പെട്ട അധികാരിയോ ഡ്രൈവിംഗിൽ നിന്ന് അയോഗ്യനാക്കിയ വ്യക്തി അയോഗ്യതാ കാലയളവിൽ ഒരു മോട്ടോർ വാഹനവും ഓടിക്കരുത്.",
+    "penaltyEn": "Fine: Up to ₹10,000 or as specified under the applicable provisions of the Motor Vehicles Act.",
+    "penaltyMl": "പിഴ: പരമാവധി ₹10,000 വരെ അല്ലെങ്കിൽ മോട്ടോർ വാഹന നിയമത്തിലെ ബാധകമായ വ്യവസ്ഥകൾ പ്രകാരം."
+  },
+  {
+    "id": 5,
+    "category": "Violations",
+    "titleEn": "Dangerous Driving",
+    "titleMl": "അപകടകരമായ രീതിയിൽ വാഹനം ഓടിക്കൽ",
+    "lawReference": "Section 184, Motor Vehicles Act, 1988",
+    "descriptionEn": "Driving in a manner that is dangerous to the public, considering road conditions, traffic, weather, or other relevant circumstances, is a punishable offence.",
+    "descriptionMl": "റോഡിന്റെ അവസ്ഥ, ഗതാഗതം, കാലാവസ്ഥ എന്നിവ പരിഗണിക്കാതെ പൊതുജനങ്ങൾക്ക് അപകടം സൃഷ്ടിക്കുന്ന രീതിയിൽ വാഹനം ഓടിക്കുന്നത് ശിക്ഷാർഹമായ കുറ്റമാണ്.",
+    "penaltyEn": "First offence: Fine up to ₹5,000 and/or imprisonment up to 6 months. Repeat offences may attract higher penalties under the Motor Vehicles Act.",
+    "penaltyMl": "ആദ്യ കുറ്റം: ₹5,000 വരെ പിഴയും/അല്ലെങ്കിൽ 6 മാസം വരെ തടവും. ആവർത്തിച്ചാൽ കൂടുതൽ കർശനമായ ശിക്ഷ ലഭിക്കാം."
+  },
+
+  {
+    "id": 6,
+    "category": "Violations",
+    "titleEn": "Rash and Negligent Driving",
+    "titleMl": "അശ്രദ്ധയും അശ്രദ്ധാപരവുമായ ഡ്രൈവിംഗ്",
+    "lawReference": "Section 184, Motor Vehicles Act, 1988",
+    "descriptionEn": "Driving a vehicle in a rash or negligent manner that endangers the safety of other road users is a punishable offence. Such driving may lead to accidents causing injury or damage to property.",
+    "descriptionMl": "മറ്റ് റോഡ് ഉപയോക്താക്കളുടെ സുരക്ഷ അപകടത്തിലാക്കുന്ന തരത്തിൽ അശ്രദ്ധയോടെയോ അപകടകരമായ രീതിയിലോ വാഹനം ഓടിക്കുന്നത് ശിക്ഷാർഹമായ കുറ്റമാണ്. ഇത്തരം ഡ്രൈവിംഗ് അപകടങ്ങൾക്കും ആളപായത്തിനും സ്വത്ത് നാശത്തിനും കാരണമാകാം.",
+    "penaltyEn": "First offence: Fine up to ₹5,000 and/or imprisonment up to 6 months. Repeat offences may attract higher penalties.",
+    "penaltyMl": "ആദ്യ കുറ്റം: ₹5,000 വരെ പിഴയും/അല്ലെങ്കിൽ 6 മാസം വരെ തടവും. ആവർത്തിച്ചാൽ കൂടുതൽ കർശനമായ ശിക്ഷ ലഭിക്കാം."
+  },
+  {
+    "id": 7,
+    "category": "Violations",
+    "titleEn": "Overspeeding",
+    "titleMl": "അമിതവേഗത്തിൽ വാഹനം ഓടിക്കൽ",
+    "lawReference": "Section 183, Motor Vehicles Act, 1988",
+    "descriptionEn": "Driving a vehicle beyond the prescribed speed limit notified for a particular road or area is an offence. Speed limits are enforced to improve road safety and reduce accidents.",
+    "descriptionMl": "ഒരു റോഡിലോ പ്രദേശത്തിലോ നിശ്ചയിച്ചിട്ടുള്ള വേഗപരിധിയേക്കാൾ കൂടുതലായി വാഹനം ഓടിക്കുന്നത് നിയമലംഘനമാണ്. റോഡ് സുരക്ഷ ഉറപ്പാക്കുന്നതിനും അപകടങ്ങൾ കുറയ്ക്കുന്നതിനുമാണ് വേഗപരിധി നിശ്ചയിച്ചിരിക്കുന്നത്.",
+    "penaltyEn": "Fine as prescribed under Section 183 of the Motor Vehicles Act. Higher penalties may apply depending on vehicle class and repeat offences.",
+    "penaltyMl": "മോട്ടോർ വാഹന നിയമത്തിലെ വകുപ്പ് 183 പ്രകാരമുള്ള പിഴ ബാധകമാണ്. വാഹന വിഭാഗത്തിനും ആവർത്തിച്ചുള്ള കുറ്റത്തിനും അനുസരിച്ച് കൂടുതൽ ശിക്ഷ ലഭിക്കാം."
+  },
+  {
+    "id": 8,
+    "category": "Violations",
+    "titleEn": "Driving Under the Influence of Alcohol or Drugs",
+    "titleMl": "മദ്യത്തിന്റെയോ മയക്കുമരുന്നിന്റെയോ സ്വാധീനത്തിൽ വാഹനം ഓടിക്കൽ",
+    "lawReference": "Section 185, Motor Vehicles Act, 1988",
+    "descriptionEn": "Driving under the influence of alcohol or drugs beyond the legally permitted limit, or while incapable of exercising proper control over the vehicle, is a serious offence.",
+    "descriptionMl": "നിയമപരമായി അനുവദിച്ച പരിധിയേക്കാൾ കൂടുതൽ മദ്യമോ മയക്കുമരുന്നോ ഉപയോഗിച്ച അവസ്ഥയിൽ, അല്ലെങ്കിൽ വാഹനം സുരക്ഷിതമായി നിയന്ത്രിക്കാൻ കഴിയാത്ത അവസ്ഥയിൽ വാഹനം ഓടിക്കുന്നത് ഗുരുതരമായ കുറ്റമാണ്.",
+    "penaltyEn": "First offence: Fine up to ₹10,000 and/or imprisonment up to 6 months. Repeat offences may attract higher punishment.",
+    "penaltyMl": "ആദ്യ കുറ്റം: ₹10,000 വരെ പിഴയും/അല്ലെങ്കിൽ 6 മാസം വരെ തടവും. ആവർത്തിച്ചാൽ കൂടുതൽ കർശനമായ ശിക്ഷ ലഭിക്കാം."
+  },
+  {
+    "id": 9,
+    "category": "Violations",
+    "titleEn": "Jumping a Red Traffic Signal",
+    "titleMl": "ചുവപ്പ് ട്രാഫിക് സിഗ്നൽ ലംഘിക്കൽ",
+    "lawReference": "Section 184, Motor Vehicles Act, 1988 (where applicable) and relevant Traffic Control Rules",
+    "descriptionEn": "Failing to stop at a red traffic signal or crossing the stop line after the signal turns red is a traffic violation that endangers road users and pedestrians.",
+    "descriptionMl": "ചുവപ്പ് ട്രാഫിക് സിഗ്നലിൽ വാഹനം നിർത്താതിരിക്കുകയോ സിഗ്നൽ ചുവപ്പായ ശേഷം സ്റ്റോപ്പ് ലൈൻ കടക്കുകയോ ചെയ്യുന്നത് മറ്റ് റോഡ് ഉപയോക്താക്കൾക്കും കാൽനടയാത്രക്കാർക്കും അപകടസാധ്യത സൃഷ്ടിക്കുന്ന നിയമലംഘനമാണ്.",
+    "penaltyEn": "Fine as notified by the competent authority. Serious or dangerous cases may attract action under Section 184.",
+    "penaltyMl": "ബന്ധപ്പെട്ട അധികാരികൾ നിശ്ചയിച്ചിരിക്കുന്ന പിഴ ബാധകമാണ്. ഗുരുതരമായ സാഹചര്യങ്ങളിൽ വകുപ്പ് 184 പ്രകാരവും നടപടി സ്വീകരിക്കാം."
+  },
+  {
+    "id": 10,
+    "category": "Violations",
+    "titleEn": "Wrong-side Driving",
+    "titleMl": "റോഡിന്റെ തെറ്റായ വശത്ത് വാഹനം ഓടിക്കൽ",
+    "lawReference": "Section 184, Motor Vehicles Act, 1988",
+    "descriptionEn": "Driving on the wrong side of the road against the permitted direction of traffic creates a high risk of head-on collisions and is treated as dangerous driving.",
+    "descriptionMl": "ഗതാഗതത്തിനായി അനുവദിച്ചിരിക്കുന്ന ദിശയ്ക്ക് എതിരായി റോഡിന്റെ തെറ്റായ വശത്ത് വാഹനം ഓടിക്കുന്നത് നേർക്കുനേർ കൂട്ടിയിടിക്ക് സാധ്യത വർധിപ്പിക്കുന്ന ഗുരുതരമായ നിയമലംഘനമാണ്.",
+    "penaltyEn": "Fine up to ₹5,000 and/or imprisonment up to 6 months for dangerous driving, depending on the circumstances.",
+    "penaltyMl": "സാഹചര്യത്തിനനുസരിച്ച് അപകടകരമായ ഡ്രൈവിംഗിന് ₹5,000 വരെ പിഴയും/അല്ലെങ്കിൽ 6 മാസം വരെ തടവും ലഭിക്കാം."
+  },
+
+    {
+      "id": 11,
+      "category": "Violations",
+      "titleEn": "Using a Mobile Phone While Driving",
+      "titleMl": "വാഹനം ഓടിക്കുമ്പോൾ മൊബൈൽ ഫോൺ ഉപയോഗിക്കൽ",
+      "lawReference": "Section 184, Motor Vehicles Act, 1988 (where applicable)",
+      "descriptionEn": "Using a handheld mobile phone while driving distracts the driver and significantly increases the risk of accidents. Drivers should avoid calling, texting, or operating a mobile device while the vehicle is in motion.",
+      "descriptionMl": "വാഹനം ഓടിക്കുമ്പോൾ കൈയിൽ പിടിച്ച് മൊബൈൽ ഫോൺ ഉപയോഗിക്കുന്നത് ഡ്രൈവറുടെ ശ്രദ്ധ തിരിക്കുകയും അപകടസാധ്യത വർധിപ്പിക്കുകയും ചെയ്യുന്നു. വാഹനം സഞ്ചരിക്കുമ്പോൾ ഫോൺ വിളിക്കുക, സന്ദേശം അയയ്ക്കുക, മൊബൈൽ ഉപയോഗിക്കുക എന്നിവ ഒഴിവാക്കണം.",
+      "penaltyEn": "Fine up to ₹5,000 and/or imprisonment up to 6 months if treated as dangerous driving. Additional penalties may apply depending on the circumstances.",
+      "penaltyMl": "അപകടകരമായ ഡ്രൈവിംഗായി കണക്കാക്കിയാൽ ₹5,000 വരെ പിഴയും/അല്ലെങ്കിൽ 6 മാസം വരെ തടവും ലഭിക്കാം. സാഹചര്യത്തിനനുസരിച്ച് കൂടുതൽ നടപടികൾ ഉണ്ടായേക്കാം."
+    },
+    {
+      "id": 12,
+      "category": "Violations",
+      "titleEn": "Triple Riding on a Two-Wheeler",
+      "titleMl": "ഇരുചക്ര വാഹനത്തിൽ മൂന്ന് പേർ സഞ്ചരിക്കൽ",
+      "lawReference": "Section 128 read with Section 194C, Motor Vehicles Act, 1988",
+      "descriptionEn": "A two-wheeler shall not carry more than one pillion rider in addition to the rider. Carrying three or more persons on a two-wheeler is prohibited as it affects balance and road safety.",
+      "descriptionMl": "ഇരുചക്ര വാഹനത്തിൽ ഡ്രൈവറിന് പുറമെ ഒരാൾക്ക് മാത്രമേ യാത്ര ചെയ്യാൻ അനുവാദമുള്ളു. മൂന്ന് പേരോ അതിലധികമോ സഞ്ചരിക്കുന്നത് വാഹനത്തിന്റെ നിയന്ത്രണം നഷ്ടപ്പെടാനും അപകടസാധ്യത വർധിക്കാനും കാരണമാകും.",
+      "penaltyEn": "Fine: ₹1,000. Driving licence may also be liable for disqualification as per applicable provisions.",
+      "penaltyMl": "പിഴ: ₹1,000. ബാധകമായ നിയമപ്രകാരം ഡ്രൈവിംഗ് ലൈസൻസിനെതിരെ നടപടികളും ഉണ്ടായേക്കാം."
+    },
+    {
+      "id": 13,
+      "category": "Violations",
+      "titleEn": "Illegal Racing and Speed Trials",
+      "titleMl": "അനുമതിയില്ലാത്ത വാഹന റേസിംഗും സ്പീഡ് ട്രയലുകളും",
+      "lawReference": "Section 189, Motor Vehicles Act, 1988",
+      "descriptionEn": "Organising or participating in motor vehicle races or speed trials on public roads without the written permission of the competent authority is prohibited.",
+      "descriptionMl": "ബന്ധപ്പെട്ട അധികാരിയുടെ മുൻകൂർ അനുമതിയില്ലാതെ പൊതുവഴികളിൽ വാഹന റേസുകളിലോ സ്പീഡ് ട്രയലുകളിലോ പങ്കെടുക്കുകയോ സംഘടിപ്പിക്കുകയോ ചെയ്യുന്നത് നിയമവിരുദ്ധമാണ്.",
+      "penaltyEn": "Fine up to ₹5,000 and/or imprisonment up to 3 months for the first offence. Repeat offences attract higher penalties.",
+      "penaltyMl": "ആദ്യ കുറ്റത്തിന് ₹5,000 വരെ പിഴയും/അല്ലെങ്കിൽ 3 മാസം വരെ തടവും ലഭിക്കാം. ആവർത്തിച്ചാൽ കൂടുതൽ കർശനമായ ശിക്ഷ ലഭിക്കും."
+    },
+    {
+      "id": 14,
+      "category": "Violations",
+      "titleEn": "Driving Without Vehicle Registration",
+      "titleMl": "രജിസ്ട്രേഷൻ ഇല്ലാത്ത വാഹനം ഓടിക്കൽ",
+      "lawReference": "Section 39 read with Section 192, Motor Vehicles Act, 1988",
+      "descriptionEn": "No motor vehicle shall be driven in a public place unless it is duly registered and displays a valid registration mark as required by law.",
+      "descriptionMl": "നിയമപ്രകാരം സാധുവായ രജിസ്ട്രേഷനും രജിസ്ട്രേഷൻ നമ്പറും ഇല്ലാതെ ഒരു മോട്ടോർ വാഹനവും പൊതുസ്ഥലത്ത് ഓടിക്കാൻ പാടില്ല.",
+      "penaltyEn": "Fine: ₹5,000 for the first offence. Repeat offences may attract higher penalties as prescribed under the Act.",
+      "penaltyMl": "ആദ്യ കുറ്റത്തിന് ₹5,000 പിഴ. ആവർത്തിച്ചാൽ നിയമപ്രകാരം കൂടുതൽ കർശനമായ ശിക്ഷ ലഭിക്കാം."
+    },
+    {
+      "id": 15,
+      "category": "Violations",
+      "titleEn": "Driving Without Valid Motor Vehicle Insurance",
+      "titleMl": "സാധുവായ മോട്ടോർ വാഹന ഇൻഷുറൻസ് ഇല്ലാതെ വാഹനം ഓടിക്കൽ",
+      "lawReference": "Section 146 read with Section 196, Motor Vehicles Act, 1988",
+      "descriptionEn": "Every motor vehicle used in a public place must have a valid third-party insurance policy. Driving an uninsured vehicle is a punishable offence.",
+      "descriptionMl": "പൊതുസ്ഥലത്ത് ഉപയോഗിക്കുന്ന എല്ലാ മോട്ടോർ വാഹനങ്ങൾക്കും സാധുവായ മൂന്നാം കക്ഷി ഇൻഷുറൻസ് നിർബന്ധമാണ്. ഇൻഷുറൻസ് ഇല്ലാതെ വാഹനം ഓടിക്കുന്നത് ശിക്ഷാർഹമായ കുറ്റമാണ്.",
+      "penaltyEn": "Fine up to ₹2,000 and/or imprisonment up to 3 months for the first offence. Repeat offences may attract higher penalties.",
+      "penaltyMl": "ആദ്യ കുറ്റത്തിന് ₹2,000 വരെ പിഴയും/അല്ലെങ്കിൽ 3 മാസം വരെ തടവും ലഭിക്കാം. ആവർത്തിച്ചാൽ കൂടുതൽ കർശനമായ ശിക്ഷ ലഭിക്കാം."
+    }
+  ]

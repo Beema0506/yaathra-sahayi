@@ -1,0 +1,169 @@
+[
+  {
+    "id": 31,
+    "category": "Documents",
+    "titleEn": "Carry a Valid Driving Licence",
+    "titleMl": "സാധുവായ ഡ്രൈവിംഗ് ലൈസൻസ് കൈവശം വയ്ക്കുക",
+    "lawReference": "Section 3 read with Section 130, Motor Vehicles Act, 1988",
+    "descriptionEn": "Every person driving a motor vehicle shall possess a valid driving licence and produce it on demand by a police officer or any authorized officer.",
+    "descriptionMl": "മോട്ടോർ വാഹനം ഓടിക്കുന്ന ഓരോ വ്യക്തിയും സാധുവായ ഡ്രൈവിംഗ് ലൈസൻസ് കൈവശം വയ്ക്കുകയും പോലീസ് ഉദ്യോഗസ്ഥനോ അധികാരപ്പെട്ട ഉദ്യോഗസ്ഥനോ ആവശ്യപ്പെടുമ്പോൾ ഹാജരാക്കുകയും വേണം.",
+    "penaltyEn": "Failure to produce or possess a valid driving licence may attract penalties under the Motor Vehicles Act, including a fine up to ₹5,000 where applicable.",
+    "penaltyMl": "സാധുവായ ഡ്രൈവിംഗ് ലൈസൻസ് കൈവശം ഇല്ലാതിരിക്കുകയോ ഹാജരാക്കാതിരിക്കുകയോ ചെയ്താൽ മോട്ടോർ വാഹന നിയമപ്രകാരം ₹5,000 വരെ പിഴ ഉൾപ്പെടെയുള്ള നടപടികൾ ഉണ്ടായേക്കാം."
+  },
+  {
+    "id": 32,
+    "category": "Documents",
+    "titleEn": "Carry the Registration Certificate (RC)",
+    "titleMl": "വാഹനത്തിന്റെ രജിസ്ട്രേഷൻ സർട്ടിഫിക്കറ്റ് (RC) കൈവശം വയ്ക്കുക",
+    "lawReference": "Section 39 read with Section 130, Motor Vehicles Act, 1988",
+    "descriptionEn": "Every motor vehicle used in a public place must be registered, and the Registration Certificate shall be produced when demanded by an authorized officer.",
+    "descriptionMl": "പൊതുസ്ഥലത്ത് ഉപയോഗിക്കുന്ന എല്ലാ മോട്ടോർ വാഹനങ്ങളും രജിസ്റ്റർ ചെയ്തിരിക്കണം. രജിസ്ട്രേഷൻ സർട്ടിഫിക്കറ്റ് ആവശ്യപ്പെടുമ്പോൾ ഹാജരാക്കണം.",
+    "penaltyEn": "Failure to produce a valid Registration Certificate may attract penalties under the Motor Vehicles Act.",
+    "penaltyMl": "സാധുവായ രജിസ്ട്രേഷൻ സർട്ടിഫിക്കറ്റ് ഹാജരാക്കാത്ത പക്ഷം മോട്ടോർ വാഹന നിയമപ്രകാരം നടപടി സ്വീകരിക്കാം."
+  },
+  {
+    "id": 33,
+    "category": "Documents",
+    "titleEn": "Carry Valid Motor Vehicle Insurance",
+    "titleMl": "സാധുവായ മോട്ടോർ വാഹന ഇൻഷുറൻസ് കൈവശം വയ്ക്കുക",
+    "lawReference": "Section 146 read with Section 196, Motor Vehicles Act, 1988",
+    "descriptionEn": "Every motor vehicle driven in a public place must be covered by a valid third-party insurance policy. The insurance document should be available for inspection.",
+    "descriptionMl": "പൊതുസ്ഥലത്ത് ഉപയോഗിക്കുന്ന എല്ലാ വാഹനങ്ങൾക്കും സാധുവായ തേർഡ് പാർട്ടി ഇൻഷുറൻസ് നിർബന്ധമാണ്. ഇൻഷുറൻസ് രേഖ പരിശോധനയ്ക്കായി ലഭ്യമാക്കണം.",
+    "penaltyEn": "Driving without valid insurance may attract a fine up to ₹2,000 and/or imprisonment up to 3 months for the first offence.",
+    "penaltyMl": "സാധുവായ ഇൻഷുറൻസ് ഇല്ലാതെ വാഹനം ഓടിച്ചാൽ ആദ്യ കുറ്റത്തിന് ₹2,000 വരെ പിഴയും/അല്ലെങ്കിൽ 3 മാസം വരെ തടവും ലഭിക്കാം."
+  },
+  {
+    "id": 34,
+    "category": "Documents",
+    "titleEn": "Carry a Valid Pollution Under Control (PUC) Certificate",
+    "titleMl": "സാധുവായ മലിനീകരണ നിയന്ത്രണ (PUC) സർട്ടിഫിക്കറ്റ് കൈവശം വയ്ക്കുക",
+    "lawReference": "Section 190(2), Motor Vehicles Act, 1988 read with Central Motor Vehicles Rules",
+    "descriptionEn": "Every applicable vehicle shall possess a valid Pollution Under Control (PUC) Certificate to ensure that emissions remain within the prescribed limits.",
+    "descriptionMl": "ബാധകമായ എല്ലാ വാഹനങ്ങൾക്കും മലിനീകരണം നിശ്ചിത പരിധിക്കുള്ളിലാണെന്ന് ഉറപ്പാക്കുന്ന സാധുവായ PUC സർട്ടിഫിക്കറ്റ് ഉണ്ടായിരിക്കണം.",
+    "penaltyEn": "Failure to possess a valid PUC Certificate may attract a fine of up to ₹10,000 or as notified under applicable rules.",
+    "penaltyMl": "സാധുവായ PUC സർട്ടിഫിക്കറ്റ് ഇല്ലെങ്കിൽ ₹10,000 വരെ പിഴയോ ബാധകമായ ചട്ടങ്ങൾ പ്രകാരമുള്ള നടപടികളോ ഉണ്ടായേക്കാം."
+  },
+  {
+    "id": 35,
+    "category": "Documents",
+    "titleEn": "Produce Documents When Required by an Authorized Officer",
+    "titleMl": "അധികാരപ്പെട്ട ഉദ്യോഗസ്ഥൻ ആവശ്യപ്പെടുമ്പോൾ രേഖകൾ ഹാജരാക്കുക",
+    "lawReference": "Section 130, Motor Vehicles Act, 1988",
+    "descriptionEn": "The driver of a motor vehicle shall produce the driving licence, Registration Certificate, insurance certificate, permit (where applicable), and other required documents when demanded by an authorized officer.",
+    "descriptionMl": "അധികാരപ്പെട്ട ഉദ്യോഗസ്ഥൻ ആവശ്യപ്പെടുമ്പോൾ ഡ്രൈവിംഗ് ലൈസൻസ്, രജിസ്ട്രേഷൻ സർട്ടിഫിക്കറ്റ്, ഇൻഷുറൻസ് സർട്ടിഫിക്കറ്റ്, പെർമിറ്റ് (ബാധകമാണെങ്കിൽ) എന്നിവയും മറ്റ് ആവശ്യമായ രേഖകളും ഹാജരാക്കണം.",
+    "penaltyEn": "Failure to produce required documents may attract penalties under the Motor Vehicles Act. Digitally stored documents may be accepted where permitted by law.",
+    "penaltyMl": "ആവശ്യമായ രേഖകൾ ഹാജരാക്കാത്ത പക്ഷം മോട്ടോർ വാഹന നിയമപ്രകാരം നടപടി സ്വീകരിക്കാം. നിയമം അനുവദിക്കുന്നിടത്ത് ഡിജിറ്റൽ രേഖകളും അംഗീകരിക്കാം."
+  },
+
+    {
+      "id": 36,
+      "category": "Documents",
+      "titleEn": "Carry a Valid Permit (Commercial Vehicles)",
+      "titleMl": "വാണിജ്യ വാഹനങ്ങൾക്ക് സാധുവായ പെർമിറ്റ് കൈവശം വയ്ക്കുക",
+      "lawReference": "Section 66 read with Section 192A, Motor Vehicles Act, 1988",
+      "descriptionEn": "Transport vehicles shall not operate in a public place without a valid permit issued by the competent transport authority, unless exempted by law.",
+      "descriptionMl": "നിയമപ്രകാരം ഒഴിവാക്കിയിട്ടില്ലെങ്കിൽ, ഗതാഗത വാഹനങ്ങൾ ബന്ധപ്പെട്ട ട്രാൻസ്പോർട്ട് അതോറിറ്റി നൽകിയ സാധുവായ പെർമിറ്റില്ലാതെ പൊതുസ്ഥലത്ത് സർവീസ് നടത്താൻ പാടില്ല.",
+      "penaltyEn": "Operating a transport vehicle without a valid permit may attract a fine up to ₹10,000 for the first offence. Repeat offences may attract higher penalties.",
+      "penaltyMl": "സാധുവായ പെർമിറ്റില്ലാതെ ഗതാഗത വാഹനം ഓടിച്ചാൽ ആദ്യ കുറ്റത്തിന് ₹10,000 വരെ പിഴ ലഭിക്കാം. ആവർത്തിച്ചാൽ കൂടുതൽ കർശനമായ ശിക്ഷ ലഭിക്കാം."
+    },
+    {
+      "id": 37,
+      "category": "Documents",
+      "titleEn": "Carry a Valid Fitness Certificate",
+      "titleMl": "സാധുവായ ഫിറ്റ്നസ് സർട്ടിഫിക്കറ്റ് കൈവശം വയ്ക്കുക",
+      "lawReference": "Section 56, Motor Vehicles Act, 1988",
+      "descriptionEn": "Every transport vehicle shall possess a valid Certificate of Fitness issued by an authorized testing station or competent authority to ensure that it is roadworthy.",
+      "descriptionMl": "എല്ലാ ഗതാഗത വാഹനങ്ങൾക്കും റോഡിൽ ഓടിക്കാൻ യോഗ്യമാണെന്ന് ഉറപ്പാക്കുന്ന സാധുവായ ഫിറ്റ്നസ് സർട്ടിഫിക്കറ്റ് ഉണ്ടായിരിക്കണം.",
+      "penaltyEn": "Using a transport vehicle without a valid Fitness Certificate may attract penalties under the Motor Vehicles Act.",
+      "penaltyMl": "സാധുവായ ഫിറ്റ്നസ് സർട്ടിഫിക്കറ്റ് ഇല്ലാതെ ഗതാഗത വാഹനം ഉപയോഗിച്ചാൽ മോട്ടോർ വാഹന നിയമപ്രകാരം നടപടി സ്വീകരിക്കാം."
+    },
+    {
+      "id": 38,
+      "category": "Documents",
+      "titleEn": "Carry Tax Payment Records (Where Applicable)",
+      "titleMl": "ബാധകമായിടത്ത് വാഹന നികുതി അടച്ചതിന്റെ രേഖ കൈവശം വയ്ക്കുക",
+      "lawReference": "Applicable State Motor Vehicle Taxation Laws",
+      "descriptionEn": "Vehicle owners shall ensure that applicable motor vehicle taxes are paid and maintain proof of payment whenever required by the competent authority.",
+      "descriptionMl": "ബാധകമായ വാഹന നികുതികൾ സമയബന്ധിതമായി അടച്ച് അതിന്റെ രേഖ ആവശ്യപ്പെടുമ്പോൾ ഹാജരാക്കണം.",
+      "penaltyEn": "Failure to comply may result in penalties under the applicable State Motor Vehicle Taxation laws.",
+      "penaltyMl": "നിയമം പാലിക്കാത്ത പക്ഷം ബന്ധപ്പെട്ട സംസ്ഥാന വാഹന നികുതി നിയമപ്രകാരം നടപടി സ്വീകരിക്കാം."
+    },
+    {
+      "id": 39,
+      "category": "Documents",
+      "titleEn": "Digital Documents Are Valid",
+      "titleMl": "ഡിജിറ്റൽ രേഖകളും നിയമപരമായി അംഗീകരിക്കപ്പെടുന്നു",
+      "lawReference": "Section 136A, Motor Vehicles Act, 1988",
+      "descriptionEn": "Driving Licence, Registration Certificate, Insurance Certificate and other prescribed documents stored in DigiLocker or mParivahan may be accepted as valid, subject to applicable government notifications.",
+      "descriptionMl": "ഡിജിലോക്കറിലോ എംപരിവാഹനിലോ സൂക്ഷിച്ചിരിക്കുന്ന ഡ്രൈവിംഗ് ലൈസൻസ്, ആർ.സി., ഇൻഷുറൻസ് സർട്ടിഫിക്കറ്റ് തുടങ്ങിയ രേഖകൾ സർക്കാർ നിർദ്ദേശങ്ങൾ അനുസരിച്ച് സാധുവായി അംഗീകരിക്കപ്പെടാം.",
+      "penaltyEn": "Drivers should ensure that digital documents are genuine, accessible and valid at the time of inspection.",
+      "penaltyMl": "പരിശോധന സമയത്ത് ഡിജിറ്റൽ രേഖകൾ യഥാർത്ഥവും ലഭ്യവുമായി സാധുവുമായിരിക്കണമെന്ന് ഉറപ്പാക്കണം."
+    },
+    {
+      "id": 40,
+      "category": "Documents",
+      "titleEn": "Keep Documents Updated",
+      "titleMl": "വാഹന രേഖകൾ കാലികമായി പുതുക്കി സൂക്ഷിക്കുക",
+      "lawReference": "Motor Vehicles Act, 1988 and Central Motor Vehicles Rules, 1989",
+      "descriptionEn": "Vehicle owners should renew documents such as the Driving Licence, Registration Certificate, Insurance, Permit and Fitness Certificate before their expiry to avoid legal issues.",
+      "descriptionMl": "ഡ്രൈവിംഗ് ലൈസൻസ്, ആർ.സി., ഇൻഷുറൻസ്, പെർമിറ്റ്, ഫിറ്റ്നസ് സർട്ടിഫിക്കറ്റ് തുടങ്ങിയ രേഖകൾ കാലാവധി കഴിയുന്നതിന് മുമ്പ് പുതുക്കണം.",
+      "penaltyEn": "Failure to renew mandatory documents before expiry may result in penalties under the relevant provisions of the Motor Vehicles Act.",
+      "penaltyMl": "നിർബന്ധമായ രേഖകൾ കാലാവധിക്ക് മുമ്പ് പുതുക്കാത്ത പക്ഷം ബന്ധപ്പെട്ട നിയമപ്രകാരം പിഴയും മറ്റ് നടപടികളും ഉണ്ടായേക്കാം."
+    },
+
+    {
+      "id": 41,
+      "category": "Documents",
+      "titleEn": "Display Registration Mark (Number Plate) Correctly",
+      "titleMl": "വാഹന രജിസ്ട്രേഷൻ നമ്പർ ശരിയായ രീതിയിൽ പ്രദർശിപ്പിക്കുക",
+      "lawReference": "Section 50 read with Rule 50, Central Motor Vehicles Rules, 1989",
+      "descriptionEn": "Every motor vehicle shall display its registration mark in the prescribed format, size and manner. Fancy or altered number plates that do not comply with the prescribed standards are prohibited.",
+      "descriptionMl": "ഓരോ വാഹനവും നിയമത്തിൽ നിർദേശിച്ചിരിക്കുന്ന മാതൃക, വലിപ്പം, രീതികൾ എന്നിവ പാലിച്ചുകൊണ്ട് രജിസ്ട്രേഷൻ നമ്പർ പ്രദർശിപ്പിക്കണം. നിയമവിരുദ്ധമായ ഫാൻസി നമ്പർ പ്ലേറ്റുകൾ ഉപയോഗിക്കുന്നത് അനുവദനീയമല്ല.",
+      "penaltyEn": "Violation may attract a fine under the Motor Vehicles Act and applicable rules. Repeated violations may lead to additional legal action.",
+      "penaltyMl": "ലംഘിച്ചാൽ മോട്ടോർ വാഹന നിയമപ്രകാരവും ബാധകമായ ചട്ടങ്ങൾ പ്രകാരവും പിഴ ലഭിക്കാം. ആവർത്തിച്ചാൽ കൂടുതൽ നിയമനടപടികൾ ഉണ്ടായേക്കാം."
+    },
+    {
+      "id": 42,
+      "category": "Documents",
+      "titleEn": "Carry Permit for Goods and Passenger Transport Vehicles",
+      "titleMl": "ചരക്ക്, യാത്രാ വാഹനങ്ങൾക്ക് ആവശ്യമായ പെർമിറ്റ് കൈവശം വയ്ക്കുക",
+      "lawReference": "Section 66, Motor Vehicles Act, 1988",
+      "descriptionEn": "Goods vehicles and passenger transport vehicles shall operate only with a valid permit issued by the competent transport authority unless specifically exempted.",
+      "descriptionMl": "ചരക്ക് വാഹനങ്ങളും യാത്രാ വാഹനങ്ങളും ബന്ധപ്പെട്ട ട്രാൻസ്പോർട്ട് അതോറിറ്റി നൽകിയ സാധുവായ പെർമിറ്റോടുകൂടി മാത്രമേ സർവീസ് നടത്താവൂ, നിയമപരമായ ഒഴിവുകൾ ഒഴികെ.",
+      "penaltyEn": "Operating without a valid permit may attract penalties under Section 192A of the Motor Vehicles Act.",
+      "penaltyMl": "സാധുവായ പെർമിറ്റില്ലാതെ സർവീസ് നടത്തിയാൽ വകുപ്പ് 192A പ്രകാരം നടപടി സ്വീകരിക്കാം."
+    },
+    {
+      "id": 43,
+      "category": "Documents",
+      "titleEn": "Report Change of Vehicle Ownership",
+      "titleMl": "വാഹന ഉടമസ്ഥാവകാശ മാറ്റം റിപ്പോർട്ട് ചെയ്യുക",
+      "lawReference": "Section 50, Motor Vehicles Act, 1988",
+      "descriptionEn": "When ownership of a motor vehicle changes, the transfer shall be reported to the registering authority within the prescribed time so that the Registration Certificate can be updated.",
+      "descriptionMl": "വാഹനത്തിന്റെ ഉടമസ്ഥാവകാശം മാറുമ്പോൾ നിശ്ചിത സമയപരിധിക്കുള്ളിൽ രജിസ്ട്രേഷൻ അതോറിറ്റിയെ അറിയിച്ച് രജിസ്ട്രേഷൻ സർട്ടിഫിക്കറ്റ് പുതുക്കണം.",
+      "penaltyEn": "Failure to report transfer of ownership within the prescribed time may attract penalties under the Motor Vehicles Act.",
+      "penaltyMl": "ഉടമസ്ഥാവകാശ മാറ്റം സമയബന്ധിതമായി അറിയിക്കാത്ത പക്ഷം മോട്ടോർ വാഹന നിയമപ്രകാരം നടപടി സ്വീകരിക്കാം."
+    },
+    {
+      "id": 44,
+      "category": "Documents",
+      "titleEn": "Report Change of Address",
+      "titleMl": "വിലാസം മാറിയാൽ രജിസ്ട്രേഷൻ അതോറിറ്റിയെ അറിയിക്കുക",
+      "lawReference": "Section 49, Motor Vehicles Act, 1988",
+      "descriptionEn": "A vehicle owner shall report any permanent change of address to the registering authority within the prescribed period so that official records remain accurate.",
+      "descriptionMl": "വാഹന ഉടമയുടെ സ്ഥിര വിലാസം മാറിയാൽ നിശ്ചിത സമയത്തിനുള്ളിൽ രജിസ്ട്രേഷൻ അതോറിറ്റിയെ അറിയിക്കണം. ഇതിലൂടെ ഔദ്യോഗിക രേഖകൾ കൃത്യമായി നിലനിർത്താം.",
+      "penaltyEn": "Failure to notify the registering authority may attract penalties under the applicable provisions of the Motor Vehicles Act.",
+      "penaltyMl": "വിലാസമാറ്റം അറിയിക്കാത്ത പക്ഷം മോട്ടോർ വാഹന നിയമപ്രകാരം നടപടി സ്വീകരിക്കാം."
+    },
+    {
+      "id": 45,
+      "category": "Documents",
+      "titleEn": "Apply for Duplicate Documents if Lost or Damaged",
+      "titleMl": "രേഖകൾ നഷ്ടപ്പെടുകയോ കേടാകുകയോ ചെയ്താൽ ഡ്യൂപ്ലിക്കേറ്റ് രേഖയ്ക്ക് അപേക്ഷിക്കുക",
+      "lawReference": "Central Motor Vehicles Rules, 1989",
+      "descriptionEn": "If important vehicle documents such as the Driving Licence or Registration Certificate are lost, stolen or damaged, the owner or driver should apply for duplicate documents through the prescribed procedure.",
+      "descriptionMl": "ഡ്രൈവിംഗ് ലൈസൻസ്, രജിസ്ട്രേഷൻ സർട്ടിഫിക്കറ്റ് തുടങ്ങിയ പ്രധാന രേഖകൾ നഷ്ടപ്പെടുകയോ മോഷണം പോകുകയോ കേടാകുകയോ ചെയ്താൽ നിശ്ചിത നടപടിക്രമങ്ങൾ പാലിച്ച് ഡ്യൂപ്ലിക്കേറ്റ് രേഖയ്ക്ക് അപേക്ഷിക്കണം.",
+      "penaltyEn": "Failure to possess valid replacement documents when required may lead to action under the Motor Vehicles Act.",
+      "penaltyMl": "ആവശ്യമായപ്പോൾ സാധുവായ പകരം രേഖകൾ ഇല്ലെങ്കിൽ മോട്ടോർ വാഹന നിയമപ്രകാരം നടപടി സ്വീകരിക്കാം."
+    }
+]
