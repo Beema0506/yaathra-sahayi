@@ -130,6 +130,8 @@ Screenshots/
 ├── lawdetail_ml.jpg
 └── settings.jpg
 
+```
+
 ## 👩‍💻 Author
 
 **Beema Kamal**
