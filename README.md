@@ -38,36 +38,35 @@ traffic-related information, with support for both English and Malayalam.
 
 The home screen provides quick access to traffic-law search, voice search, and major traffic categories.
 
-![Home Screen](Screenshots/home.jpg)
-<img src="Screenshots/home.jpg" alt="Home Screen" width="300">
+![Home Screen](<img src="Screenshots/home.jpg" alt="Home Screen" width="300">)
+
 
 ### 📖 Law Details
 
 View detailed information about individual traffic violations, including the relevant Motor Vehicles Act section, description, and fine.
 
-![Law Detail Screen](Screenshots/lawdetail_ml.jpg)
-<img src="Screenshots/lawdetail_ml.jpg" alt="Law Detail Screen" width="300">
+![Law Detail Screen](<img src="Screenshots/lawdetail_ml.jpg" alt="Law Detail Screen" width="300">)
+
 
 ### 🚨 Emergency Hub
 
 Quickly access emergency services and trusted emergency contacts.
 
-![Emergency Hub](Screenshots/Emerg.jpg)
-<img src="Screenshots/Emerg.jpg" alt="Emergency Hub" width="300">
+![Emergency Hub](<img src="Screenshots/Emerg.jpg" alt="Emergency Hub" width="300">)
+
 
 ### ⚙️ Settings
 
 Manage language preferences, dark mode, emergency contacts, traffic rights, app guide, and other application settings.
 
-![Settings  Screen](Screenshots/settings.jpg)
-<img src="Screenshots/settings.jpg" alt="Settings Screen " width="300">
+![Settings  Screen](<img src="Screenshots/settings.jpg" alt="Settings Screen " width="300">)
+
 
 ### 🌐 Malayalam Support
 
 The application provides Malayalam translations for important traffic-law content and application information.
 
-![Malayalam Support](Screenshots/about_dark_ml.jpg)
-<img src="Screenshots/about_dark_ml.jpg" alt="Home Screen" width="300">
+![Malayalam Support](<img src="Screenshots/about_dark_ml.jpg" alt="Home Screen" width="300">)
 
 ## 📂 Project Structure
 
