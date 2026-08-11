@@ -129,3 +129,11 @@ Screenshots/
 ├── home.jpg
 ├── lawdetail_ml.jpg
 └── settings.jpg
+
+## 👩‍💻 Author
+
+**Beema Kamal**
+
+Computer Engineering Graduate | Flutter Developer
+
+- GitHub: [Beema0506](https://github.com/Beema0506)
