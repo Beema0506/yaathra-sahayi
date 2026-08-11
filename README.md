@@ -52,21 +52,21 @@ View detailed information about individual traffic violations, including the rel
 
 Quickly access emergency services and trusted emergency contacts.
 
-![Emergency Hub](<img src="Screenshots/Emerg.jpg" alt="Emergency Hub" width="300">)
+<img src="Screenshots/Emerg.jpg" alt="Emergency Hub" width="300">g
 
 
 ### ⚙️ Settings
 
 Manage language preferences, dark mode, emergency contacts, traffic rights, app guide, and other application settings.
 
-![Settings  Screen](<img src="Screenshots/settings.jpg" alt="Settings Screen " width="300">)
+<img src="Screenshots/settings.jpg" alt="Settings Screen " width="300">
 
 
 ### 🌐 Malayalam Support
 
 The application provides Malayalam translations for important traffic-law content and application information.
 
-![Malayalam Support](<img src="Screenshots/about_dark_ml.jpg" alt="Home Screen" width="300">)
+![Malayalam Support]<img src="Screenshots/about_dark_ml.jpg" alt="Home Screen" width="300">
 
 ## 📂 Project Structure
 
