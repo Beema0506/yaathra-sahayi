@@ -37,15 +37,14 @@ traffic-related information, with support for both English and Malayalam.
 ### 🏠 Home Screen
 
 The home screen provides quick access to traffic-law search, voice search, and major traffic categories.
-
-![Home Screen](<img src="Screenshots/home.jpg" alt="Home Screen" width="300">)
+<img src="Screenshots/home.jpg" alt="Home Screen" width="300">
 
 
 ### 📖 Law Details
 
 View detailed information about individual traffic violations, including the relevant Motor Vehicles Act section, description, and fine.
 
-![Law Detail Screen](<img src="Screenshots/lawdetail_ml.jpg" alt="Law Detail Screen" width="300">)
+<img src="Screenshots/lawdetail_ml.jpg" alt="Law Detail Screen" width="300">
 
 
 ### 🚨 Emergency Hub
@@ -66,7 +65,7 @@ Manage language preferences, dark mode, emergency contacts, traffic rights, app 
 
 The application provides Malayalam translations for important traffic-law content and application information.
 
-![Malayalam Support]<img src="Screenshots/about_dark_ml.jpg" alt="Home Screen" width="300">
+<img src="Screenshots/about_dark_ml.jpg" alt="Home Screen" width="300">
 
 ## 📂 Project Structure
 
